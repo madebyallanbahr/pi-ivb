@@ -1,0 +1,12 @@
+{
+  "clients": [
+    {
+      "cliente_id": "13ddc94d-9290-4c3b-8a8b-5038bc8a1f9e",
+      "nome": "Andrieli Maron",
+      "endereco": "Rua S/N, Vila Nova, Colônia Santo Antônio",
+      "cep": "N/A",
+      "data_de_nascimento": "03-05-2004",
+      "telefone": "530000000330"
+    }
+  ]
+}
